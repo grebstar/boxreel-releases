@@ -1,0 +1,2 @@
+193b02c8d5d4c17e99c2c3506aeecfbe90bff8bf7e80198171e642e404d27d50  BoxReel-Setup.exe
+3379163918fb9d1dc7ebe82c3d30b50f7db235cb6c1e46c2384f3f842aceb79d  BoxReel-Mac.dmg
